@@ -3,9 +3,12 @@ Learn all the basics plus pragmas, scalars, arrays, hashes, printf, print, math 
 
 ## Resources
 https://learn.perl.org/tutorials/
+
 https://www.tutorialspoint.com/perl/index.htm
+
 https://www.learn-perl.org/
 
 ### Videos
 https://www.youtube.com/watch?v=WEghIXs8F6c
+
 http://www.newthinktank.com/2016/03/perl-tutorial/
